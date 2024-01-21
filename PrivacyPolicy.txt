@@ -1,0 +1,16 @@
+Privacy Policy for Pestilence
+
+1. Introduction
+- This Privacy Policy describes how Pestilence collects, uses, and discloses personal data when you use our bot.
+2. Data Collection and Use
+- When you use Pestilence, we may collect personal data that you provide to us, such as your Steam Account and Town Of Salem 2 Account details. This data is used to provide the services of Pestilence.
+3. Data Storage
+- Pestilence stores your data securely. All information sent within our services is encrypted both in transit and at rest.
+4. Data Sharing
+- We do not share your personal data with third parties unless required by law.
+5. Data Security
+- We implement a variety of security measures to keep your personal data safe, including encryption during transit and at rest.
+6. Changes to Our Privacy Policy
+- We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+7. Contact Us
+If you have any questions about this Privacy Policy, please contact "curtbot" through discord.com.
