@@ -1,15 +1,15 @@
 1. Eligibility
-- By using [Your Bot's Name], you represent that you are at least 13 years old.
+- By using Pestilence, you represent that you are at least 13 years old.
 2. Features
 - Pestilence provides up-to-date information on the game Town of Salem 2.
-- Users can link their Steam Account and Town Of Salem 2 Account to [Your Bot's Name] to access their API and find information about their in-game account, such as statistics on their wins.
+- Users can link their Steam Account and Town Of Salem 2 Account to Pestilence to access their API and find information about their in-game account, such as statistics on their wins.
 3. Use of Pestilence
-- Users must comply with all applicable laws and regulations when using [Your Bot's Name].
-- Users should not use [Your Bot's Name] to engage in any illegal activities.
+- Users must comply with all applicable laws and regulations when using Pestilence.
+- Users should not use Pestilence to engage in any illegal activities.
 4. Disclaimer
 - Pestilence is provided on an "as is" basis, without warranties of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
-- In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with [Your Bot's Name].
+- In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with Pestilence.
 5. Changes to These Terms of Service
 - We reserve the right to modify these Terms of Service from time to time. Any changes will be posted on this page.
 6. Contact Us
-- If you have any questions about these Terms of Service, please contact "curtbot" on Discord.Com.
+- If you have any questions about these Terms of Service, please contact "curtbot" through discord.com
